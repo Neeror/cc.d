@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+header{
+    background-color: rgb(11, 72, 11);
+    
+}
+.container{
+    display: flex;
+    position: fixed;
+    background-color: rgb(11, 72, 11);
+    z-index: 2;
+    width: 1100vw;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    margin-left: 20px;
+}
+.navbar{
+    margin-left: 1000px;
+    margin-top: 15px;
+}
+.nav{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+.container-{
+    color: white;
+    z-index: 4;
+    margin-top: 90px;
+ 
+}
+.bloock{
+    display: flex;
+}
+.cf{
+    background-color: black;
+    color: rgb(11, 72, 11);
+    padding: 10px;
+    border-radius: 15px;
+    border: 2px solid rgb(11, 72, 11);
+    height: 100px;
+    margin-top: 200px;
+    margin-right: 100px;
+}
